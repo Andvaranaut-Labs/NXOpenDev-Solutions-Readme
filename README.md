@@ -1,7 +1,7 @@
 # NXOpenDev-Solutions-Readme
 Readme containing contact information regarding Solution Creation Services based on NXOpen API Development
 
-![Cascade](/img/avnl_logo.jpg)
+![Logo](/andvaranaut_bildmarke_weblogo-e945fee1.png)
 
 ----------------------------
 NXOpen Development Services
