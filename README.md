@@ -22,30 +22,30 @@ We specialize in various areas of NXOpen API development, including but not limi
     CAM Part Manufacturing customization & automation
     Simulation automation
 
-We take pride in our commitment to quality, and our services are designed to help you achieve your business goals. 
+We take pride in our commitment to quality, and our services are designed to help you achieve your business goals.  
 Our team is committed to providing the best customer experience, and we work tirelessly to ensure that our clients are satisfied with our services.
 
-If you are looking for a reliable and efficient NXOpen API development partner, then look no further than Andvaranaut Labs. 
+If you are looking for a reliable and efficient NXOpen API development partner, then look no further than Andvaranaut Labs.  
 We would love to hear from you and discuss how we can help you achieve your business goals. 
 
-Get in touch with us today, and let's work together to take your business to the next level.
-Mail: solutions@andvaranautlabs.com
-Web: https://andvaranautlabs.com/www/html/
-Webshop: https://andvaranautlabs.mybranchbob.com/
+Get in touch with us today, and let's work together to take your business to the next level.  
+Mail: solutions@andvaranautlabs.com  
+Web: https://andvaranautlabs.com/www/html/  
+Webshop: https://andvaranautlabs.mybranchbob.com/  
 
-Merchandise:
-Spreadshop US: https://andvaranautlabs.myspreadshop.com/
-Spreadshop EU:
+Merchandise:  
+Spreadshop US: https://andvaranautlabs.myspreadshop.com/  
+Spreadshop EU:  
 
-Media:
-LinkedIn: https://www.linkedin.com/company/andvaranaut-labs/
-Twitter: https://twitter.com/AndvaranautLabs
-Gettr: https://gettr.com/user/andvaranautlabs
+Media:  
+LinkedIn: https://www.linkedin.com/company/andvaranaut-labs/  
+Twitter: https://twitter.com/AndvaranautLabs  
+Gettr: https://gettr.com/user/andvaranautlabs  
 
-Blog:
-https://andvaranautlabs.beehiiv.com/
+Blog:  
+https://andvaranautlabs.beehiiv.com/  
 
-Support:
-Patreon: https://www.patreon.com/andvaranautlabs
-Fundrazr: https://fundrazr.com/profiles/andvaranaut-labs
+Support:  
+Patreon: https://www.patreon.com/andvaranautlabs  
+Fundrazr: https://fundrazr.com/profiles/andvaranaut-labs  
 Kickstarter: https://www.kickstarter.com/profile/andvaranautlabs
